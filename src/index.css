@@ -1,0 +1,78 @@
+
+/* Neutral Face */
+@font-face {
+    font-family: "NeutralFace";
+    src: url("../public/fonts/NeutralFaceBold.otf") format("opentype");
+    font-weight: 800;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: "NeutralFace";
+    src: url("../public/fonts/NeutralFace.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+};
+
+/* Inter */
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-ExtraLight.ttf");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-Thin.ttf");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-SemiBold.ttf");
+    font-weight: 500;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-Medium.ttf");
+    font-weight: 600;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-Bold.ttf");
+    font-weight: 700;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-ExtraBold.ttf");
+    font-weight: 800;
+};
+
+@font-face {
+    font-family: "Inter";
+    src: url("../public/fonts/Inter-Black.ttf");
+    font-weight: 900;
+    font-style: normal;
+}

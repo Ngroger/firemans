@@ -1,0 +1,23 @@
+/* src/components/PageTransition.css */
+
+.fade-enter {
+    opacity: 0.2; /* Начальная частичная прозрачность */
+}
+.fade-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in; /* Более длинное время перехода для плавности */
+}
+.fade-exit {
+    opacity: 1;
+}
+.fade-exit-active {
+    opacity: 0.2; /* Конечная частичная прозрачность */
+    transition: opacity 500ms ease-in; /* Более длинное время перехода для плавности */
+}
+
+/* Дополнительный стиль для улучшения визуального эффекта */
+.fade-enter, .fade-exit {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
